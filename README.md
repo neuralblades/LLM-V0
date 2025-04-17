@@ -3,7 +3,7 @@
 ## Project Overview
 This project implements a neural language model from first principles, using PyTorch to build a character-level recurrent neural network that can generate text in the style of its training data. The model is trained on Shakespeare's works and demonstrates fundamental concepts in natural language processing and deep learning.
 
-![Sample Generated Text](path/to/sample_image.png)
+![Sample Generated Text](saved_models/training_metrics.png)
 
 ## Key Features
 - **Character-level language modeling** with LSTM architecture
