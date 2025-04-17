@@ -1,0 +1,9 @@
+{
+    "data_file": "shakespeare.txt",
+    "seq_length": 64,
+    "batch_size": 32,
+    "embedding_dim": 64,
+    "hidden_dim": 128,
+    "epochs": 10,
+    "learning_rate": 0.001
+}
