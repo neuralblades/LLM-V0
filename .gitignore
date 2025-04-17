@@ -25,11 +25,11 @@ venv/
 ENV/
 
 # Model files and checkpoints
-saved_models/
-*.pt
-*.pth
-*.h5
-*.ckpt
+# saved_models/
+# *.pt
+# *.pth
+# *.h5
+# *.ckpt
 
 # Data files
 # data/
